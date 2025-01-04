@@ -1,0 +1,2 @@
+awsiotsdk
+bme280-spi@git+https://github.com/malvaceae/bme280-spi.git@v0.1.0
